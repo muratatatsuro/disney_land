@@ -1,2 +1,4 @@
 # disney_land
-disney test
+disney attractionを効率よく回るための方法を考えました
+最適化手法は遺伝的アルゴリズム
+jyupyter形式で載せてあるので一気に回せます
